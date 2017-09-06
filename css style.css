@@ -1,0 +1,63 @@
+h1
+{
+	background-color: #daccd1;
+	text-align: center;
+	font-size:80; 
+	opacity: 0.8;
+	font-family: 'Pacifico', cursive;
+	
+}
+h2
+{
+	background-color: #FFF0F5;
+	text-align: center;
+	opacity: 0.5;
+	font-style: italic;
+	font-family: 'Pacifico', cursive;
+}
+a
+{
+	background-color: #FFF0F5;
+	font-family: 'Dancing Script', cursive;
+	font-size: 25;
+}
+p
+{
+    background-color: 	#FFF0F5;
+    line-height:200%;
+    text-indent: 50px;
+    font-family: 'Dancing Script', cursive;
+   font-size: 23;
+
+}
+body { 
+    background: #FFF0F5	 url("smiley.gif") no-repeat fixed center; 
+}
+
+
+img {
+    -webkit-filter: grayscale(50%); 
+    filter: grayscale(50%);
+    vertical-align: middle;
+    opacity: 0.9;
+
+}
+a:hover { text-decoration: underline; 
+font-family: 'Dancing Script', cursive;
+font-size: 50;
+}
+
+ul { 
+	list-style-type: circle;
+	 color: #004060; 
+	 font-size: 20;
+	  font-weight: bold; 
+	  font-family: 'Dancing Script', cursive;
+	}
+div
+{
+	margin: auto;
+	width: 38%;
+    border: 10px ;
+    padding: 10px;
+}
